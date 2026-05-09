@@ -16,4 +16,4 @@ Projeto pra aprender o básico de estilização com CSS.
 - `style.css` — folha de estilos
 
 ---
-[Ver online](https://mirandaromario09.github.io/estudo-intrucao-ao-css)
+[Ver online](https://mirandaromario09.github.io/estudo-introducao-ao-css/)
